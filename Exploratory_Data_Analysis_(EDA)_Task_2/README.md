@@ -100,7 +100,7 @@ Follow these steps to reproduce the analysis on your local machine:
 **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/CodeAlpha_Exploratory_Data_Analysis.git
+git clone https://github.com/eslamalsaeed72-droid/CodeAlpha_Data_Analytics_Tasks/edit/main/Exploratory_Data_Analysis_(EDA)_Task_2.git
 cd CodeAlpha_Exploratory_Data_Analysis
 
 ```
@@ -120,7 +120,7 @@ jupyter notebook CodeAlpha_Exploratory_Data_Analysis.ipynb
 
 ```
 
-*Alternatively, you can upload the notebook to [Google Colab](https://colab.research.google.com/) for a cloud-based experience.*
+*Alternatively, you can upload the notebook to [https://colab.research.google.com/drive/1KpqlWADqMJ9YbN94lBZIgMylK8hS7c24?usp=drive_link) for a cloud-based experience.*
 
 ---
 
@@ -147,9 +147,9 @@ This project satisfies the requirements for **Task 2: Exploratory Data Analysis*
 
 <div align="center">
 
-**Created by [Your Name]**
+**Created by Eslam Alsaeed**
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://www.google.com/search?q=https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/eslam-alsaeed-1a23921aa ) | [GitHub](https://github.com/eslamalsaeed72-droid)
 
 *#DataAnalytics #EDA #Python #DataScience #CodeAlpha #Visualization #Statistics*
 
