@@ -1,12 +1,4 @@
-Here is the optimized, professional version of your **README.md**. I have organized the layout, added professional badges (Shields.io), improved the "Data Story" section for better readability, and formatted the code blocks correctly.
 
-I have also corrected the Git clone link to point to your repository root rather than the "create new file" link.
-
-### 📄 **README.md**
-
-You can copy the code below directly into your README file.
-
-```markdown
 # 📊 CodeAlpha Task 3: IoT Sensor Network Optimization Visualization
 
 [![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-blue?style=flat&logo=linkedin)](https://www.codealpha.tech/)
