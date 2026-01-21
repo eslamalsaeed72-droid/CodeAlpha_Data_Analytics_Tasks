@@ -159,7 +159,7 @@ The project relies on the following Python libraries (see `requirements.txt`):
 
 **Eslam Alsaeed** - *Mechatronics/AI Engineer*
 
-* [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eslam-alsaeed-1a23921aa )
+* [LinkedIn Profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eslam-alsaeed-1a23921aa )
 * [GitHub Profile](https://www.google.com/search?q=https://github.com/eslamalsaeed72-droid)
 
 ---
